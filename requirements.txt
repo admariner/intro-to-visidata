@@ -3,3 +3,6 @@ visidata==3.0.2
 sphinx==1.8.3
 sphinx-rtd-theme==0.4.3
 ansi2html==1.5.2
+jinja2<3.0.0
+markupsafe==2.0.1
+alabaster<0.7.14
